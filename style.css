@@ -1,0 +1,29 @@
+header{
+    height: 10%;
+    background-color: blue;
+}
+h1  {
+    color: #ffff;
+}
+footer {
+    height: 13%;
+    background-color: #000;
+}
+h4
+{
+    color: #f00;
+}
+img {
+    height: 50px;
+    width: 50px;
+}
+.text { color: rgb(255, 140, 0);
+
+}
+p {
+    color: #ff0;
+}
+a {
+    color: #0f0;
+    
+}
